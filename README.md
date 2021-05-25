@@ -1,5 +1,10 @@
 # ToDoList
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/70934347/119556622-e184a500-bdbc-11eb-87df-dcb0b16a465d.png)
+![image](https://user-images.githubusercontent.com/70934347/119557837-53a9b980-bdbe-11eb-8df1-c84f1ab2bd18.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
